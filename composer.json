@@ -1,0 +1,16 @@
+{
+    "name": "nlib/lib-yaml",
+    "description": "Library Yaml",
+    "license": "MIT",
+    "require": {
+        "php": "^7.1.3",
+        "flipboxdigital/oauth2-hubspot": "^1.0"
+    },
+    "autoload": {
+        "psr-4": {
+            "nlib\\Yaml\\": ""
+        }
+    },
+    "minimum-stability": "dev",
+    "prefer-stable": true
+}
