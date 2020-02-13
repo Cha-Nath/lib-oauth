@@ -1,6 +1,6 @@
 {
-    "name": "nlib/lib-yaml",
-    "description": "Library Yaml",
+    "name": "nlib/lib-oauth",
+    "description": "Library OAuth",
     "license": "MIT",
     "require": {
         "php": "^7.1.3",
@@ -8,7 +8,7 @@
     },
     "autoload": {
         "psr-4": {
-            "nlib\\Yaml\\": ""
+            "nlib\\OAuth\\": ""
         }
     },
     "minimum-stability": "dev",
